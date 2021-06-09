@@ -4,11 +4,11 @@
 
 ## Introduction to DevOps and why DevOps/benefits
 
--
--
--
--
--
+- Bring developers and operations teams together
+- Break down silos
+- Automate tasks as much as possible
+- Deploy infrastructure as code
+- Share responsabilities
 
 ### Linux commands that also work on Bash
 
